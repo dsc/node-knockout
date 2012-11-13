@@ -1,0 +1,15 @@
+{
+  "name"        : "knockout",
+  "version"     : "2.2.0",
+  "description" : "Node module for Knockout.",
+  "homepage"    : "https://github.com/dsc/node-knockout",
+  "author"      : "David Schoonover <dsc@less.ly> (http://less.ly)",
+  
+  "dependencies": { "jsdom" : "== 0.2.19" },
+  
+  "repository"  : { "type":"git", "url":"git://github.com/dsc/node-knockout.git" },
+  "bugs"        : { "url":"https://github.com/dsc/node-knockout/issues" },
+  
+  "engine"      : { "node": ">=0.4.0" },
+  "license"     : "MIT"
+}
